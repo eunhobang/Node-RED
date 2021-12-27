@@ -7,8 +7,9 @@ https://wikidocs.net/16814
   * LTS로 다운로드 받기
 
 ## Node-RED 명령어 설치
-  (맥/리눅스)sudo npm install -g node-red
+    (맥)sudo npm install -g node-red
   (윈도우)npm install -g node-red 
+  (우분투)
   
 ## Node-RED 실행
   node-red
