@@ -26,6 +26,8 @@ https://wikidocs.net/16814
 ## Node-RED 접속
   크롬에서 "localhost:1880" 입력하여 접속
   
+## Node-RED 화면 구성
+
 ![그림1](https://user-images.githubusercontent.com/80435502/147364279-93600011-b0e8-4631-97cc-93546acb4fa3.png)
   파레트
   - 우리가 Node RED에서 사용할 수 있는 노드들이 나열되어있습니다. 나중에 다른 노드들을 설치를 통하여 추가할 수 있습니다.
