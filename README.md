@@ -2,14 +2,15 @@
 
 https://wikidocs.net/16814
 
-## Node.js 설치
+### Node.js 설치
   https://nodejs.org/ko/
   * LTS로 다운로드 받기
 
-## Node-RED 명령어 설치
-    (맥)sudo npm install -g node-red
+### Node-RED 명령어 설치
+  (맥/우분투)sudo npm install -g node-red
+    * 안 될 경우: sudo apt install npm 입력 후 설치
   (윈도우)npm install -g node-red 
-  (우분투)
+  
   
 ## Node-RED 실행
   node-red
